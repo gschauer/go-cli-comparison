@@ -1,0 +1,18 @@
+### IntelliJ IDEA
+.idea/
+
+### Visual Studio Code
+.vscode/
+
+### Go
+*.app
+*.bin
+*.exe
+*.exe~
+*.html
+*.out
+*.test
+
+### misc
+/bin/
+/tmp/
